@@ -1,5 +1,5 @@
 
-public static class atividade4
+public static class Atividade4
 
 {
     public static void Executar()

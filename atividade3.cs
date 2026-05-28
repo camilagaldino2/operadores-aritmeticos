@@ -3,7 +3,7 @@
 - A distância é informada em **km**
 - O preço do combustível é informado em **R$/litro***/
 
-public static class atividade3
+public static class Atividade3
 {
 
     public static void Executar()
